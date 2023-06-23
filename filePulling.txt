@@ -1,0 +1,5 @@
+go 10;
+showtime;
+up 10;
+down;
+land;
